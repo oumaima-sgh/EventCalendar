@@ -1,0 +1,5 @@
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model\bin\Debug\netstandard2.0\EventCalendar.Model.deps.json
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model\bin\Debug\netstandard2.0\EventCalendar.Model.dll
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model\obj\Debug\netstandard2.0\EventCalendar.Model.csprojAssemblyReference.cache
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model\obj\Debug\netstandard2.0\EventCalendar.Model.AssemblyInfoInputs.cache
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model\obj\Debug\netstandard2.0\EventCalendar.Model.AssemblyInfo.cs

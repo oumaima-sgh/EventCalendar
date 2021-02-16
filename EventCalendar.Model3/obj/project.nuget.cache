@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "88Cklp7QKy4ZSANcbXBYfxPaFOaE/mX+9KzHLgowdRaSjbkoNJg3R6d8YIrFSchuxI+AGby84XdQ8eqhMtbIzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahdi\\source\\repos\\WebApplication1\\EventCalendar.Model\\EventCalendar.Model1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

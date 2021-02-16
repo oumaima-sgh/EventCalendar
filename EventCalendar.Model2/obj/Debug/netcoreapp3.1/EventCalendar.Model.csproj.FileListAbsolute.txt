@@ -1,0 +1,8 @@
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\bin\Debug\netcoreapp3.1\EventCalendar.Model.deps.json
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\bin\Debug\netcoreapp3.1\EventCalendar.Model.dll
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\bin\Debug\netcoreapp3.1\EventCalendar.Model.pdb
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\obj\Debug\netcoreapp3.1\EventCalendar.Model.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\obj\Debug\netcoreapp3.1\EventCalendar.Model.AssemblyInfoInputs.cache
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\obj\Debug\netcoreapp3.1\EventCalendar.Model.AssemblyInfo.cs
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\obj\Debug\netcoreapp3.1\EventCalendar.Model.dll
+C:\Users\mahdi\source\repos\WebApplication1\EventCalendar.Model2\obj\Debug\netcoreapp3.1\EventCalendar.Model.pdb
